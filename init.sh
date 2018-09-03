@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 if [[ ${1} -eq 1 ]]; then 
     echo "Y"
